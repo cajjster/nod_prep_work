@@ -7,7 +7,7 @@ The goal of this material is to ensure that **everyone starts the bootcamp on th
 All exercises must be **completed before the first day** and will be **handed in when the bootcamp begins** 📅.
 
 The prep work is divided into **three labs** 🧩, each containing a series of exercises:  
-- The first two labs are designed to be solved **without solutions** — test your problem-solving and persistence 🧠.  
+- The first two labs are designed to be solved **without example solutions** to test your problem-solving and persistence 🧠.  
 - The final lab is more difficult and includes **example solutions** to help you check your progress ✅.
 
 ⏱️ Expect the prep work to take up to **40 hours** if you’re new to Python 🐍.  
