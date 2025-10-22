@@ -1,3 +1,5 @@
+<img align="right" src="https://iili.io/2FquTQ4.png" alt="2FquTQ4.png" border="0" style="height:45px" style="width:15px"/>
+
 # 🧠 Prep Work for Nod Coding Bootcamp 🚀
 
 Welcome to the **Prep Work** for the **Coding Bootcamp** 🎓!  
